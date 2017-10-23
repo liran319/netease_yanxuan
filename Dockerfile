@@ -1,4 +1,4 @@
-FORM node:6.9
+FROM node:6.9
 
 MAINTAINER ran(ran.li@heidianer.com)
 
